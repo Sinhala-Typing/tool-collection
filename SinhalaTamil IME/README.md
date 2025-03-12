@@ -1,4 +1,6 @@
-# Files
+# Sinhala Tamil IME
+
+![image](https://github.com/user-attachments/assets/b5346aba-c5ea-42ca-af51-15b1d9bb4143)
 
 ### `SinhalaTamil_IME_Setup.exe`
 
